@@ -3,7 +3,7 @@ Note:
 >>>test_prediction.txt is the result produced after the transformation of one softmax layer with the model output.Please mainly refer to this file!!!
 >>>test_prediction_no_softmax.txt is the result produced directly by the model output. This file may be for comparison & reference purpose only. 
 
-
+File Explanation:
 Code:
 (1) Model_Train.py:
 >>> The file to build and train the model(including data preparation)
